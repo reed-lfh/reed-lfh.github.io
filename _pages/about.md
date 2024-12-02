@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+Hello, and welcome to my homepage! I’m Feihong Liu, a PhD candidate at Penn State. My doctoral research focuses on solid wave phenomena, employing both numerical and theoretical analysis. Through my work, I aim to bridge the gap between wave properties and the structural characteristics of propagation media.
+
+I am passionate about computational mechanics and deeply interested in developing innovative solutions to tackle a variety of engineering challenges.
+
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
