@@ -4,11 +4,14 @@ title: News
 permalink: /news/
 ---
 
-<h1>News</h1>
-<ul>
-  {% for item in site.news %}
-    <li>
-      <a href="{{ item.url }}">{{ item.title }}</a> - {{ item.date | date: "%B %d, %Y" }}
-    </li>
-  {% endfor %}
-</ul>
+<h1 style="text-align: center;">News</h1>
+
+<div class="news-links">
+  <ul>
+    {% for item in site.news %}
+      <li>
+        <a href="{{ item.url }}">{{ item.title }}</a> - {{ item.date | date: "%B %d, %Y" }}
+      </li>
+    {% endfor %}
+  </ul>
+</div>
