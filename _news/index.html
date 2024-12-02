@@ -4,21 +4,14 @@ title: News
 permalink: /news/
 ---
 
-<h1>News</h1>
+<h1 style="text-align: center;">News</h1>
 
-<div class="news-feed">
-  {% for item in site.news %}
-    <article class="news-item">
-      <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
-      <p><em>{{ item.date | date: "%B %d, %Y" }}</em></p>
-      
-      {% if item.image %}
-        <img src="{{ item.image | relative_url }}" alt="{{ item.title }}">
-      {% endif %}
-      
-      <div class="news-content">
-        {{ item.content | markdownify }}
-      </div>
-    </article>
-  {% endfor %}
+<div class="news-list">
+  <ul>
+    {% for item in site.news %}
+      <li>
+        <a href="{{ item.url }}">{{ item.title }}</a> - {{ item.date | date: "%B %d, %Y" }}
+      </li>
+    {% endfor %}
+  </ul>
 </div>
