@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Engineering Science, USA, The Pennsylvania State University, 2025 (expected)
+* Ph.D in Engineering Science, USA, The Pennsylvania State University, 2025
 * M.S. in Structural Engineering, CN, Shantou University, 2020
 * B.S. in Civil Engineering, CN, Nanchang University, 2016
 
