@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, and welcome to my homepage! I’m Feihong Liu, a PhD candidate at Penn State. My doctoral research focuses on solid wave phenomena, employing both numerical and theoretical analysis. Through my work, I aim to bridge the gap between wave properties and the structural characteristics of propagation media.
+Hello, and welcome to my homepage! I’m Feihong Liu. My doctoral research focuses on solid wave phenomena, employing both numerical and theoretical analysis. Through my work, I aim to bridge the gap between wave properties and the structural characteristics of propagation media.
 
 I am passionate about computational mechanics and deeply interested in developing innovative solutions to tackle a variety of engineering challenges.
 
