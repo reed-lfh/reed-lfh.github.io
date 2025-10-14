@@ -15,7 +15,7 @@ Education
 * M.S. in Structural Engineering, CN, Shantou University, 2020
 * B.S. in Civil Engineering, CN, Nanchang University, 2016
 
-Education
+Work Experience
 ======
 * Senior Researcher, CN, CCCC, Sep. 2025 - now
 
