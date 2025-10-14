@@ -15,6 +15,15 @@ Education
 * M.S. in Structural Engineering, CN, Shantou University, 2020
 * B.S. in Civil Engineering, CN, Nanchang University, 2016
 
+Education
+======
+* Senior Researcher, CN, CCCC, Sep. 2025 - now
+
+* Teaching Assistant, USA, The Pennsylvania State University, Sep. 2023 - May. 2025
+
+* Research Assistant, USA, The Pennsylvania State University, Sep. 2020 - Aug. 2023
+
+
 <!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
