@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, and welcome to my homepage! I’m Feihong Liu. I am passionate about computational mechanics and deeply interested in developing innovative solutions to tackle a variety of engineering challenges.
+Hello, and welcome to my homepage! This is Feihong Liu, and I learn computational mechanics and engineering science.
 
 <!-- ![Wave Research](images/wave.png) -->
 
